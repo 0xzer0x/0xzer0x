@@ -18,6 +18,10 @@
 <a href="https://linkedin.com/in/0xzer0x" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/youfathy" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
+### 📫 &nbsp;Contact
+- GnuPG public key 🔑 for encrypting mail before sending to me is available [here](https://gist.github.com/0xzer0x/f60c490a0b72b7d2bdd61f8093b978ae)
+- Key Fingerprint for verifying signed emails from me: `C90B 0992 F59B B1BF 6DF1 7648 8D85 F716 FA4D 9769`
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
