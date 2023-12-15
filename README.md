@@ -23,7 +23,7 @@
 <a href="https://t.me/youfathy" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
