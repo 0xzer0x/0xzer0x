@@ -11,7 +11,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Linux, Python, C++, Qt, and Javascript.
 - 🔭 I’m currently working on *[Quran Companion](https://github.com/0xzer0x/quran-companion)*
-- 🌱 I’m currently learning *[Qt](https://qt.io)*
+- 🌱 I’m currently learning *[Rust](https://www.rust-lang.org/)*
 
 ### 📫 &nbsp;Contact
 - GnuPG public key 🔑 for encrypting mail is available [here](https://gist.github.com/0xzer0x/f60c490a0b72b7d2bdd61f8093b978ae)
