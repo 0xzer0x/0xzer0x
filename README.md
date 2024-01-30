@@ -30,9 +30,6 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
