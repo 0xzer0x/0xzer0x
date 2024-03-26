@@ -20,7 +20,7 @@
 ### 🔗 &nbsp;Links
 
 <a href="https://linkedin.com/in/0xzer0x" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/youfathy" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/Oxzer0x" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)&nbsp;
