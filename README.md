@@ -9,7 +9,7 @@
 </p>
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Linux, Python, C++, Qt, and Javascript.
+- 💬 Ask me about my experience with Linux, Python, C++, Qt, and Java.
 - 🔭 I’m currently working on *[Quran Companion](https://github.com/0xzer0x/quran-companion)*
 - 🌱 I’m currently learning *[Spring](https://spring.io/)*
 
