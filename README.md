@@ -26,9 +26,13 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk)&nbsp;
+![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 ![C++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
