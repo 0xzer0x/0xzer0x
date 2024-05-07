@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;DevOps%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=20"></a>
 </p>
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -29,5 +29,3 @@
 ### 📊 &nbsp;GitHub Status
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=0xzer0x&style=for-the-badge">
