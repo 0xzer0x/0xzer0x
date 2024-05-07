@@ -10,7 +10,7 @@
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Linux, Bash, Python, C++, Qt, and Java.
-- 🔭 I’m currently working on *[Quran Companion](https://github.com/0xzer0x/quran-companion)*
+- 🔭 I’m currently working on *[Inventory Management System](https://github.com/0xzer0x/inventory-management)*
 - 🌱 I’m currently learning *[Spring](https://spring.io/)*
 
 ### 📫 &nbsp;Contact
@@ -23,20 +23,10 @@
 <a href="https://t.me/Oxzer0x" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tools & Technologies
-![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=white)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Java](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk)&nbsp;
-![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
-![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+![My Skills](https://skillicons.dev/icons?i=neovim,cpp,java,py,git,github,githubactions,linux,bash,ansible,docker,gradle,spring,qt)
+
+### 📊 &nbsp;GitHub Status
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
