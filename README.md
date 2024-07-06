@@ -11,16 +11,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Linux, Bash, Python, C++, Qt, and Java.
 - 🔭 I’m currently working on *[Inventory Management System](https://github.com/0xzer0x/inventory-management)*
-- 🌱 I’m currently learning *[Spring](https://spring.io/)*
-
-### 📫 &nbsp;Contact
-- GnuPG public key 🔑 for encrypting mail is available [here](https://gist.github.com/0xzer0x/f60c490a0b72b7d2bdd61f8093b978ae)
-- Key Fingerprint: `C90B 0992 F59B B1BF 6DF1 7648 8D85 F716 FA4D 9769`
-
-### 🔗 &nbsp;Links
-
-<a href="https://linkedin.com/in/0xzer0x" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Oxzer0x" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Fathy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+- 🌱 I’m currently learning *[Kubernetes](https://kubernetes.io/)*
 
 ### 🛠 &nbsp;Tools & Technologies
 
@@ -28,4 +19,29 @@
 
 ### 📊 &nbsp;GitHub Status
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=0xzer0x&show_icons=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=0xzer0x&show_icons=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <a href="https://github.com/0xzer0x">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xzer0x&theme=catppuccin_mocha" />
+  </a>
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&theme=catppuccin_latte&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <a href="https://github.com/0xzer0x">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xzer0x&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</picture>
