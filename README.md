@@ -10,7 +10,13 @@
 
 ### 🛠 &nbsp;Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=neovim,cpp,java,py,git,github,githubactions,linux,bash,ansible,docker,gradle,spring,qt)
+| OS                                          | Editors                                           | Languages                                                                   | Frameworks                                              | Build Systems                                  |
+| ------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------- |
+| ![OS](https://skillicons.dev/icons?i=linux) | ![Editors](https://skillicons.dev/icons?i=neovim) | ![Languages](https://skillicons.dev/icons?i=cpp,python,java,bash&perline=2) | ![Frameworks](https://skillicons.dev/icons?i=qt,spring) | ![Build](https://skillicons.dev/icons?i=cmake) |
+
+| CI/CD                                                        | Monitoring                                                       | Containerization                                                      | Version Control                                               |
+| ------------------------------------------------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| ![CICD](https://skillicons.dev/icons?i=githubactions,gitlab) | ![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana) | ![Containerization](https://skillicons.dev/icons?i=docker,kubernetes) | ![Tools](https://skillicons.dev/icons?i=git,github&perline=2) |
 
 ### 📊 &nbsp;GitHub Status
 
