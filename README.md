@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=neovim,py,cpp,go,bash,git,github,githubactions,linux,ansible,docker,kubernetes,prometheus,grafana&perline=7)
+![My Skills](https://skillicons.dev/icons?i=aws,py,go,bash,git,github,githubactions,gitlab,linux,ansible,docker,kubernetes,prometheus,grafana&perline=7)
 
 ### 📊 &nbsp;GitHub Status
 
